@@ -48,7 +48,7 @@ Languages:    Python, TypeScript, C#
 ## Let's Connect
 
 - **Company**: [Me, Myself Plus AI](https://memyselfplusai.com)
-- **LinkedIn**: [Matthew Snow](https://linkedin.com/in/yourprofile)
+- **LinkedIn**: [Matthew Snow](https://linkedin.com/in/matthewsnow2)
 - **Email**: matthew@memyselfplusai.com
 
 *Building AI that works in the real world, one MCP server at a time.*
